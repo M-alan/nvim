@@ -8,4 +8,5 @@ This exists to make configuring neovim on my devices easier.
 > inside that nvim file is where all the other files and folders go 
 
 > install vim-plug using curl: curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+> The command and the url are all one thing
 
