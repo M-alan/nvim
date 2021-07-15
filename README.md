@@ -17,3 +17,6 @@ This exists to make configuring neovim on my devices easier.
 > Dont forget to change some file locations in init.vim, pluggins.vim
 > key Bindings are in the key folders
 > general settings like set numbers are in teh general folder
+
+## Honourable Mentions
+>https://www.chrisatmachine.com He has a youtube called ChrisAtMachine with a helpful neovim playlist
