@@ -11,4 +11,4 @@ This exists to make configuring neovim on my devices easier.
 > The command and the url are all one thing
 
 > **DONT FORGET TO SOURCE ALL YOUR FILES\FOLDERS IN THE init.vim file**
-> ** ALSO DONT FORGET THAT WHEN YOU OPEN NVIM TYPE :PlugInstall to install all the plugins you had in your plugins.vim(inside vim-plug) 
+> ** ALSO DONT FORGET THAT WHEN YOU OPEN NVIM TYPE *:PlugInstall* to install all the plugins you had in your plugins.vim(inside vim-plug) **
