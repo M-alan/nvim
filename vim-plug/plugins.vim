@@ -1,3 +1,4 @@
+" change the folder location to where the autoload pluggled file is when you ran the curl command
 call plug#begin('c:\Users\alanm\AppData\Local\nvim\autoload\plugged')
     " Better syntax support 
     Plug 'sheerun/vim-polyglot'
