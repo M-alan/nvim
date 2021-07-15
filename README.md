@@ -1,9 +1,9 @@
 # Neovim Configuration files
 
 This exists to make configuring neovim on my devices easier.
-> Go to Chocolatey and install chocolatey: https://chocolatey.org/install
+> Go to Chocolatey and install [chocolatey](https://chocolatey.org/install)
 
-> Install neovim: choco install neovim
+> Install neovim: '''choco install neovim'''
 
 > If on windows make a folder called nvim the directory should look like this: C:\Users\userName\AppData\Local\nvim
 > inside that nvim file is where all the other files and folders go 
