@@ -12,3 +12,8 @@ This exists to make configuring neovim on my devices easier.
 
 > **DONT FORGET TO SOURCE ALL YOUR FILES\FOLDERS IN THE init.vim file**
 > ** ALSO DONT FORGET THAT WHEN YOU OPEN NVIM TYPE *:PlugInstall* to install all the plugins you had in your plugins.vim(inside vim-plug) **
+
+## Things to know after all of the above
+> Dont forget to change some file locations in init.vim, pluggins.vim
+> key Bindings are in the key folders
+> general settings like set numbers are in teh general folder
