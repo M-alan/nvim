@@ -3,10 +3,12 @@
 This exists to make configuring neovim on my devices easier.
 > Go to Chocolatey and install [chocolatey](https://chocolatey.org/install)
 
-> Install neovim: ```choco install neovim```
-
+> Install neovim: ```choco install neovim``` in an elevated terminal
+> for more info on [neovim](https://neovim.io/)
+> to call neovim type nvim
 > If on windows make a folder called nvim the directory should look like this: C:\Users\userName\AppData\Local\nvim
 > inside that nvim file is where all the other files and folders go 
+> all our commands will be inside this folder 
 
 > install vim-plug using curl: ```curl -fLo ~/.config/nvim/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim```
 
