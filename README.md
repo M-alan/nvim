@@ -18,7 +18,7 @@ This exists to make configuring neovim on my devices easier.
 > 
 ## Things to know after all of the above
 > You may not need to change the file locations in the init.vim but double check that they lead to the right place but you will need to change the pluggins.vim location
-> the $HOME in the source is essentially an alias for C:\Users\userName so it will always be accurate
+> the $HOME in the source init.vim file is essentially an alias for C:\Users\userName so it will always be accurate
 > key Bindings are in the key folders
 > general settings like 'set number' are in the general folder
 
